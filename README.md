@@ -33,11 +33,6 @@ I posted it on **r/homelab** and it picked up real traction — the community st
 
 > 🔗 [github.com/dev-luigi/IPMI-FanPilot](https://github.com/dev-luigi/IPMI-FanPilot)
 
-### ImprontaWeb — my web studio
-Custom websites, e-commerce and digital workflows for professionals and small businesses. Built around a "no templates, no shortcuts" philosophy.
-
-> 🔗 [improntaweb.it](https://improntaweb.it)
-
 ### Personal portfolio
 Where I keep my projects, my CV, my certifications and a bit of who I am. Built as a SPA, with a dark/light theme and a few side experiments.
 
