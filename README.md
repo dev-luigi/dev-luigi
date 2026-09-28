@@ -3,7 +3,7 @@
 Computer Science student at the University of Salerno, based in Nola (Naples), Italy.
 I build websites, break things on purpose to understand how they work, and spend a fair amount of time on servers and home labs.
 
-I run a small studio called **ImprontaWeb**, where I help professionals and small businesses get online with custom websites and e-commerce stores instead of cookie-cutter templates. On the side I'm building **WeRemind**, a SaaS that sends automatic WhatsApp reminders so businesses stop losing appointments and unpaid invoices.
+I'm building **WeRemind**, a SaaS that sends automatic WhatsApp reminders so businesses stop losing appointments and unpaid invoices.
 
 ---
 
@@ -11,11 +11,12 @@ I run a small studio called **ImprontaWeb**, where I help professionals and smal
 
 I started coding because I wanted to build the kind of tools I couldn't find. Now I split my time between three things:
 
-- **Web development.** Mostly full-stack: front-end with HTML, CSS, JavaScript, TypeScript and React; back-end in PHP, Java, Python and Node. WordPress when the project calls for it, Next.js when it deserves something more.
-- **Server & infrastructure.** I like making servers behave. I run my own home lab on **Proxmox** and **VMware ESXi** — VMs, LXC containers, virtual networks, self-hosted services. **Docker** and **Kubernetes** for container workloads, **Cloudflare** in front of public services, **AWS** and **Azure** when a project needs to live in the cloud. I treat virtualization like a hobby that pays off: cluster setups, snapshots, backups, and a bit of Cisco networking on the side. This is also where **IPMI Fan Pilot** was born — I wanted a clean web UI for my Dell server's fans and ended up shipping the tool I couldn't find.
+- **Web development.** Mostly full-stack: front-end with HTML, CSS, JavaScript, TypeScript and React; back-end in Java, Python and Node. WordPress when the project calls for it, Next.js when it deserves something more.
+- **Server & infrastructure.** I like making servers behave. I run my own home lab on **Proxmox** VMs and LXC containers, virtual networks, self-hosted services. **Docker** and **Kubernetes** for container workloads, **Cloudflare** in front of public services, **AWS** and **Azure** when a project needs to live in the cloud. I treat virtualization like a hobby that pays off: cluster setups, snapshots, backups, and a bit of networking on the side. This is also where **IPMI Fan Pilot** was born — I wanted a clean web UI for my Dell server's fans and ended up shipping the tool I couldn't find.
 - **Hardware repair.** Phones, tablets, laptops, the occasional weird DIY electronics project. If it has a board inside, I want to open it.
 
-On top of that I'm a certified **EASA A1-A3 drone pilot**, with a good amount of hours in flight simulators before I touched a real one.
+On top of that I'm a certified **EASA A1-A3 drone pilot**, with a good amount of hours.
+Also a MSFS lover on A320 and 738, whit houndreds of hours.
 
 ---
 
@@ -66,11 +67,9 @@ Stuff I actually use, not stuff I clicked through once.
   <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="50" /></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50" /></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="50" /></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.simpleicons.org/express/white" alt="Express" height="50" /></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="50" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" height="50" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="50" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50" /></a>
   <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" height="50" /></a>
   <a href="https://supabase.com/" target="_blank"><img src="https://cdn.simpleicons.org/supabase" alt="Supabase" height="50" /></a>
 </p>
@@ -84,10 +83,8 @@ Stuff I actually use, not stuff I clicked through once.
 ### Systems & Virtualization
 <p align="left">
   <a href="https://www.proxmox.com/" target="_blank"><img src="https://cdn.simpleicons.org/proxmox" alt="Proxmox" height="50" /></a>
-  <a href="https://www.vmware.com/" target="_blank"><img src="https://cdn.simpleicons.org/vmware/white" alt="VMware" height="50" /></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="50" /></a>
   <a href="https://ubuntu.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" height="50" /></a>
-  <a href="https://www.cisco.com/" target="_blank"><img src="https://cdn.simpleicons.org/cisco" alt="Cisco" height="50" /></a>
 </p>
 
 ### DevOps & Cloud
@@ -96,7 +93,6 @@ Stuff I actually use, not stuff I clicked through once.
   <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="50" /></a>
   <a href="https://github.com/features/actions" target="_blank"><img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" height="50" /></a>
   <a href="https://aws.amazon.com/lambda/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS Lambda" height="50" /></a>
-  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" height="50" /></a>
   <a href="https://vercel.com/" target="_blank"><img src="https://cdn.simpleicons.org/vercel/white" alt="Vercel" height="50" /></a>
   <a href="https://www.cloudflare.com/" target="_blank"><img src="https://cdn.simpleicons.org/cloudflare/F38020" alt="Cloudflare" height="50" /></a>
 </p>
@@ -106,7 +102,6 @@ Stuff I actually use, not stuff I clicked through once.
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="50" /></a>
   <a href="https://github.com/" target="_blank"><img src="https://cdn.simpleicons.org/github/white" alt="GitHub" height="50" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" height="50" /></a>
-  <a href="https://www.postman.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" height="50" /></a>
 </p>
 
 ---
@@ -123,6 +118,5 @@ I take photos, hike when the weather lets me, play piano badly but happily, and 
 - WeRemind: [weremind.it](https://weremind.it) · info@weremind.it
 - LinkedIn: [linkedin.com/in/luigi-tanzillo](https://www.linkedin.com/in/luigi-tanzillo-7602a633a/)
 - Personal email: dazzler-yip3o@icloud.com
-- Instagram: [@luigi._.tanzillo](https://instagram.com/luigi._.tanzillo)
 
-If you want to talk about a project, a server problem, or just say hi — my inbox is open.
+If you want to talk about a project, a server problem, or just say hi, my inbox is open.
